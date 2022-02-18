@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukaszOziomek
 - 👀 I’m interested in Python, MySQL
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Junior Python / Interniship
+- 💞️ I’m looking to collaborate on Junior Python or Internship
 - 📫 How to reach me - lukaszoziomek@gmail.com
 
 <!---
