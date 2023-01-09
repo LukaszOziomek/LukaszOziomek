@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszOziomek
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, GIT, Github, Django
+- 🌱 I’m currently learning Python, GIT, Github
 - 💞️ I’m looking to collaborate on Internship/Trainee Python Developer
 - 📫 How to reach me - lukaszoziomek@gmail.com
 
