@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaszOziomek
-- 👀 I’m interested in Manual Testing.
-- 🌱 I’m currently learning the issues of manual testing and other testing tools.
+- 👀 I’m interested in testing.
+- 🌱 I’m currently learning the issues of testing and other testing tools.
 - 💞️ I am currently looking for employment as a junior manual tester.
 - 📫 How to reach me - lukaszoziomek@gmail.com
 
