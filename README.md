@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LukaszOziomek
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, GIT, Github
-- 💞️ I’m looking to collaborate on Internship/Trainee Python Developer
+- 👀 I’m interested in Manual Testing.
+- 🌱 I’m currently learning the issues of manual testing and other testing tools.
+- 💞️ I am currently looking for employment as a junior manual tester.
 - 📫 How to reach me - lukaszoziomek@gmail.com
 
 <!---
