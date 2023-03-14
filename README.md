@@ -8,3 +8,4 @@
 LukaszOziomek/LukaszOziomek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![blad jira](https://user-images.githubusercontent.com/99964622/225116202-f91ede40-779a-4606-b980-068fcdc33cd5.png)
