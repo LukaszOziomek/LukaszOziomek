@@ -6,7 +6,7 @@
 
 <h2>NARZĘDZIA</h2>
 ***,
-*JIRA*,
+*<JIRA>*,
 *Podstawy MySQL*,
 *Podstawy języka Python*
 <!---
