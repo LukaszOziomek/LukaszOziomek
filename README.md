@@ -6,9 +6,9 @@
 
 <h2>NARZĘDZIA</h2>
 ***
-- [x] JIRA, 
-- [x] Podstawy MySQL, 
-- [x] Podstawy języka Python.
+1. JIRA, 
+2. Podstawy MySQL, 
+3. Podstawy języka Python.
 <!---
 LukaszOziomek/LukaszOziomek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
