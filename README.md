@@ -5,7 +5,7 @@
 - 📫 How to reach me - lukaszoziomek@gmail.com, https://www.linkedin.com/in/%C5%82ukasz-oziomek-531a53226/
 
 <h2>NARZĘDZIA</h2>
-***
+***.
 1. JIRA, 
 2. Podstawy MySQL, 
 3. Podstawy języka Python.
