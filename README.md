@@ -7,10 +7,10 @@
 
 ## NARZĘDZIA
 - *JIRA*
-- *Podstawy MySQL*
-- *Podstawy języka Python*
+- *MySQL*
+- *Python*
 - *GIT*
--  *GitHub*
+- *GitHub*
 
 ## MOJE ZGŁOSZENIA BŁĘDÓW
 - [Strona testowa - Brak możliwości zmiany języka](https://drive.google.com/file/d/1i37onEVX_FknZWR7iZ1va1DM8B9PSMPm/view?usp=sharing)
