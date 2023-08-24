@@ -6,7 +6,7 @@
   - lukaszoziomek@gmail.com,
   - https://www.linkedin.com/in/%C5%82ukasz-oziomek-531a53226/
 --->
-# O MNIE
+# O MNIE 
 Aktualnie poszerzam wiedzę w kierunku testowania oprogramowania oraz narzędzi przeznaczonych do testów. Szybko przyswajam daną wiedzę, potrafię pracować w grupie, pod presją czasu jak również łatwo adaptuje się do nowego otoczenia. Otwartość to cecha która ułatwia mi komunikację - co w tym zawodzie uważam, jest kluczowe :)
 
 ## NARZĘDZIA
