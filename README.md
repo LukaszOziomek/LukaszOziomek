@@ -9,7 +9,7 @@
 - Do zarządzania testowaniem:  ***JIRA***, ***Postman*** (w trakcie nauki)
 - Do tworzenia repozytorium: ***GitHub***
 - System kontroli wersji: ***GIT***
-- Języki programowania: ***MySQL***, ***Python***
+- Języki programowania: ***SQL***, ***Python***
 
 
 
