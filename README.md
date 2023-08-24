@@ -6,11 +6,12 @@
   - https://www.linkedin.com/in/%C5%82ukasz-oziomek-531a53226/
 
 ## NARZĘDZIA
-- *JIRA*
-- *MySQL*
-- *Python*
-- *GIT*
-- *GitHub*
+- Do zarządzania testowaniem:  ***JIRA***, ***Postman*** (w trakcie nauki)
+- Do tworzenia repozytorium: ***GitHub***
+- System kontroli wersji: ***GIT***
+- Języki programowania: ***MySQL***, ***Python***
+
+
 
 ## MOJE ZGŁOSZENIA BŁĘDÓW
 - [Strona testowa - Brak możliwości zmiany języka](https://drive.google.com/file/d/1i37onEVX_FknZWR7iZ1va1DM8B9PSMPm/view?usp=sharing)
